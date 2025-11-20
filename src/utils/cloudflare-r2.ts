@@ -350,4 +350,18 @@ export const validateCloudflareR2Setup = async (): Promise<{ success: boolean; m
 
 
 // Export types
-export type { UploadResult, DeleteResult };
+// These are already exported (earlier in the file)
+interface UploadResult {
+  success: boolean
+  data?: {
+    fileId: string
+    publicUrl: string
+    fileName: string
+  }
+  message?: string
+}
+
+interface DeleteResult {
+  success: boolean
+  message: string
+}

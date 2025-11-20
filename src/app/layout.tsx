@@ -33,8 +33,6 @@ export default function RootLayout({
 
         <body>
           <CustomLayout>{children}</CustomLayout>
-          <SpeedInsights />
-          <Analytics />
           <Toaster position="top-center" reverseOrder={false} />
           <Script
             src="https://checkout.razorpay.com/v1/checkout.js"
