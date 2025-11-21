@@ -29,7 +29,7 @@ export default function TermsPage() {
           <CardContent className="space-y-6 text-gray-300">
             <div>
               <h3 className="text-lg font-semibold text-white mb-3">1. Website Operator</h3>
-              <p>This website is operated by MD SAMIE SOHRAB, located at Arbiya College Road, In front of Middle School, Purnea, Purnia, Purnea, Durga Asthan, Madhopara, Purnea, Bihar, India, 854301.</p>
+              <p>This website is operated by AZRA HUSSAIN, located at Arbiya College Road, In front of Middle School, Purnea, Purnia, Purnea, Durga Asthan, Madhopara, Purnea, Bihar, India, 854301.</p>
             </div>
 
             <div>
@@ -64,7 +64,7 @@ export default function TermsPage() {
 
             <div>
               <h3 className="text-lg font-semibold text-white mb-3">6. Intellectual Property</h3>
-              <p>All content, features, and functionality of TrackyFy are owned by MD SAMIE SOHRAB and are protected by international copyright, trademark, and other intellectual property laws.</p>
+              <p>All content, features, and functionality of TrackyFy are owned by AZRA HUSSAIN and are protected by international copyright, trademark, and other intellectual property laws.</p>
             </div>
 
             <div>

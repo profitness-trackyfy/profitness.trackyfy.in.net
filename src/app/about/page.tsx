@@ -66,7 +66,7 @@ export default function AboutUsPage() {
           <CardContent className="space-y-4">
             <div>
               <h3 className="text-lg font-semibold text-white mb-2">Legal Entity</h3>
-              <p className="text-gray-300">This website is operated by MD SAMIE SOHRAB</p>
+              <p className="text-gray-300">This website is operated by AZRA HUSSAIN</p>
             </div>
             <div>
               <h3 className="text-lg font-semibold text-white mb-2">Registered Address</h3>

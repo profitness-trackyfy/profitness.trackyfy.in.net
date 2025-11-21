@@ -669,11 +669,11 @@ function Homepage() {
       <div>
         <h4 className="text-white font-semibold mb-4">Contact</h4>
         <div className="space-y-2 text-sm text-gray-400">
-          <p>MD SAMIE SOHRAB</p>
+          <p>AZRA HUSSAIN</p>
           <p>Arbiya College Road</p>
           <p>Purnea, Bihar 854301</p>
           <p>India</p>
-          <p>+91-99051-77065</p>
+          <p>+91-74884-04161</p>
         </div>
       </div>
     </div>
@@ -681,7 +681,7 @@ function Homepage() {
     <div className="border-t border-gray-800 pt-6">
       <div className="flex flex-col md:flex-row justify-between items-center">
         <p className="text-gray-400 text-center text-sm sm:text-base mb-4 md:mb-0">
-          © {new Date().getFullYear()} TrackyFy. All rights reserved. Operated by MD SAMIE SOHRAB
+          © {new Date().getFullYear()} TrackyFy. All rights reserved. Operated by AZRA HUSSAIN
         </p>
         <div className="flex items-center gap-4">
           <Badge

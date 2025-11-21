@@ -103,7 +103,7 @@ export default function CancellationPage() {
 
             <div>
               <h3 className="text-lg font-semibold text-white mb-3">7. Contact Information</h3>
-              <p>For questions about this cancellation policy, contact MD SAMIE SOHRAB at:</p>
+              <p>For questions about this cancellation policy, contact AZRA HUSSAIN at:</p>
               <p className="mt-2">Arbiya College Road, In front of Middle School, Purnea, Purnia, Purnea, Durga Asthan, Madhopara, Purnea, Bihar, India, 854301</p>
             </div>
 

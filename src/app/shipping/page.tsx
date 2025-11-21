@@ -188,11 +188,11 @@ export default function ShippingPage() {
               <p>For questions about service delivery or access issues, contact:</p>
               <div className="bg-gray-800/50 border border-gray-600 rounded-lg p-4 mt-2">
                 <p className="text-gray-300">
-                  <strong>MD SAMIE SOHRAB</strong><br />
+                  <strong>AZRA HUSSAIN</strong><br />
                   Arbiya College Road, In front of Middle School<br />
                   Purnea, Purnia, Purnea, Durga Asthan, Madhopara<br />
                   Purnea, Bihar, India, 854301<br />
-                  <strong>Phone:</strong> +91-99051-77065<br />
+                  <strong>Phone:</strong> +91-74884-04161<br />
                   <strong>Email:</strong> support@trackyfy.com
                 </p>
               </div>

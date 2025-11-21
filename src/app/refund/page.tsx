@@ -120,7 +120,7 @@ export default function RefundPage() {
 
             <div>
               <h3 className="text-lg font-semibold text-white mb-3">7. Contact for Refunds</h3>
-              <p>To request a refund, contact MD SAMIE SOHRAB at:</p>
+              <p>To request a refund, contact AZRA HUSSAIN at:</p>
               <p className="mt-2">Arbiya College Road, In front of Middle School, Purnea, Purnia, Purnea, Durga Asthan, Madhopara, Purnea, Bihar, India, 854301</p>
             </div>
           </CardContent>

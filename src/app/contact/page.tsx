@@ -38,7 +38,7 @@ export default function ContactPage() {
               </CardHeader>
               <CardContent>
                 <p className="text-gray-300">
-                  <strong>MD SAMIE SOHRAB</strong>
+                  <strong>AZRA HUSSAIN</strong>
                   <br />
                   Arbiya College Road, In front of Middle School
                   <br />
@@ -62,7 +62,7 @@ export default function ContactPage() {
               </CardHeader>
               <CardContent>
                 <p className="text-gray-300">
-                  <strong>Mobile:</strong> +91-99051-77065
+                  <strong>Mobile:</strong> +91-74884-04161
                   <br />
                   <span className="text-sm text-gray-400">
                     Available during business hours
